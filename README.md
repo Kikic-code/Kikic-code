@@ -36,6 +36,6 @@ Working with:
 - Software quality and security practices
 
 
-<img src="https://komarev.com/ghpvc/?username=Kikic-codde&style=flat-square" />
+
 
 </div>
